@@ -16,7 +16,13 @@
     "type": "git",
     "url": "git+https://github.com/TheNightmareX/library-ts-boilerplate.git"
   },
-  "author": "",
+  "author": {
+    "name": "Char2s",
+    "email": "Char2s@outlook.com"
+  },
+  "keywords": [
+    "typescript"
+  ],
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/TheNightmareX/library-ts-boilerplate/issues"
